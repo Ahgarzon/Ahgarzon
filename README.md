@@ -1,4 +1,4 @@
-## Hi there 👋# 👋 Hi, I'm Angel Hernando Garzón Sarzosa  
+## Hi, I'm Angel Hernando Garzón Sarzosa  
 
 🎓 Industrial Automation Engineer with experience in **Artificial Intelligence, Data Science, Robotics, and Digital Process Automation**.  
 
