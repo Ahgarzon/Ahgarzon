@@ -3,9 +3,13 @@
 🎓 Industrial Automation Engineer with experience in **Artificial Intelligence, Data Science, Robotics, and Digital Process Automation**.  
 
 🔹 Development of Machine Learning, Deep Learning (CNN, LLM) and computer vision models applied to medical imaging and industrial solutions.
+
 🔹 Integration of digital twins with ROS2 and Unity3D for simulation and control of collaborative robots.
+
 🔹 Development of autonomous mobile robots in Gazebo using ROS2, SLAM Toolbox, AMCL, and Nav2, enabling mapping, localization, path planning, and obstacle avoidance.
+
 🔹 Digital automation with n8n, IoT, and data pipelines, connecting systems in real time to optimize operations.
+
 🔹 Experience in project management with agile methodologies (Scrum, OKRs, Design Thinking).
 
 🏆 **Key Achievements**  
