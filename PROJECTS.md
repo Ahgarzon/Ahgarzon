@@ -6,7 +6,7 @@ A map of my current work and technical foundations. This directory includes inde
 
 ## Flagship projects
 
-- **[Stratos AI · NSG](projects/stratos-ai.md):** commercial intelligence, AI integration and business workflow architecture. [Public app](https://apps.apple.com/cl/app/stratos-ai/id6804826565).
+- **[Stratos AI · NSG](projects/stratos-ai.md):** commercial intelligence, AI integration and business workflow architecture. [NSG](https://www.nsgintelligence.com/) · [Stratos AI / Stratos Capital](https://stratoscapitalgroup.com/) · [iPhone app](https://apps.apple.com/cl/app/stratos-ai/id6804826565).
 - **[Second brains & enterprise AIOS](projects/second-brains-aios.md):** knowledge architecture, organizational memory and authorized agent execution.
 
 ## Agents, voice and knowledge

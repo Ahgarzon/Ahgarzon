@@ -2,7 +2,7 @@
 
 **Independent project · Active development · Public architecture overview**
 
-[Profile](../README.md) · [Project directory](../PROJECTS.md) · [Visual presentation](https://angelszs.site/#jarvis)
+[Profile](../README.md) · [Project directory](../PROJECTS.md) · [Visit Jarvis](https://angelszs.site/jarvis/) · [Portfolio demonstration](https://angelszs.site/#jarvis)
 
 <img src="../assets/jarvis-icon.png" width="150" alt="Jarvis AIOS project identity" />
 

@@ -2,7 +2,7 @@
 
 **Collaborative project · Pilot · Integration case study**
 
-[Profile](../README.md) · [Directory](../PROJECTS.md) · [Public APK repository](https://github.com/Ahgarzon/tm-apk)
+[Profile](../README.md) · [Directory](../PROJECTS.md) · [TourMaps Go+ on Google Play](https://play.google.com/store/apps/details?id=com.gopluss.tourmapsgo) · [My integration pilot APKs](https://github.com/Ahgarzon/tm-apk)
 
 ## Context
 

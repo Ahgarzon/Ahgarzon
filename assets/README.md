@@ -18,3 +18,7 @@ Screenshots are illustrative portfolio material, not live status or proof of cus
 - `second-brain.svg`: conceptual overview of knowledge, context and action.
 
 These SVG diagrams were authored for this profile. They are presentation graphics, not product screenshots or official logos, and contain no client records or performance figures.
+
+## Stratos AI icon supplied by the owner
+
+`stratos-ai-icon.png` is the original `Stratos_AI_Icon_Full_4K.png` supplied by Ángel on 2026-09-30 for publication on this profile. It is copied without alteration (4096 × 4096); its display size is controlled in the README. The icon is distinct from the conceptual diagram `stratos-ai.svg`.
