@@ -17,6 +17,12 @@ During my February–April 2025 research internship at Universidad Miguel Herná
 
 This research is distinct from a clinically validated surgical system.
 
+## Mobile robotics and industrial automation
+
+My mobile robotics work covers simulated autonomous navigation with **ROS2, Gazebo, SLAM Toolbox, AMCL and Nav2**: building maps, estimating position and planning movement around obstacles. I also bring academic foundations in **control, PLCs, SCADA, IoT and instrumentation**, connecting sensor data, software and physical systems.
+
+The common thread with enterprise AI is systems thinking: understand the environment, observe state, choose an action, verify its effect and handle failure.
+
 ## Image annotation with SAM
 
 [Source: Sistema de Etiquetado de Imágenes con SAM](https://github.com/Ahgarzon/Sistema-de-Etiquetado-de-Im-genes-con-SAM)
