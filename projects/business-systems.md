@@ -41,3 +41,7 @@ A **co-created project**, begun in 2025, aimed at reducing scams involving false
 Order recovery and confirmation, Dental SDR, reporting through Proyecto Fénix, multi-agent quotation, real-estate workflows and product research are included in the [project directory](../PROJECTS.md).
 
 Where implementation is private, this public profile describes the problem and my contribution. It does not expose client data, credentials or private company repositories.
+
+## Flagship business architecture
+
+**[Stratos AI](stratos-ai.md)** connects commercial processes and conversational assistance in my work at NSG. **[Second brains and enterprise AIOS](second-brains-aios.md)** provide the knowledge and execution foundation for organizational continuity. Both have dedicated case studies describing my contribution and business focus.

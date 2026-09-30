@@ -12,6 +12,10 @@ TourMaps is a preexisting tourism application created by James. My work is the A
 
 I work on the conversational-assistance experience, mobile integration and supporting services, including the pilot's testing and release documentation.
 
+## TourCauca and regional tourism
+
+My [public portfolio](https://angelszs.site/?enfoque=negocio) also documents my participation in the conceptual and technological structuring of **TourCauca**, a regional tourism initiative recognized by Colombia's Congress. This is a contribution to a collaborative initiative; the recognition is attributed to the initiative.
+
 ## Integration view
 
 ```mermaid
