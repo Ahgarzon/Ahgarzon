@@ -4,7 +4,13 @@
 
 A map of my current work and technical foundations. This directory includes independent projects, collaborative work and academic explorations. Inclusion does not imply a commercial release or public source code.
 
-## Flagship projects
+## Featured product selection
+
+**Stratos AI · TourMaps Go+ · Jarvis AIOS · Ayúdame Colombia · ZOSA Pages · ALMA Solutions**
+
+The six visual cards on the profile link to their products and case studies. Second brains and enterprise AIOS have a separate section below the featured selection.
+
+## Business and knowledge architecture
 
 - **[Stratos AI · NSG](projects/stratos-ai.md):** commercial intelligence, AI integration and business workflow architecture. [NSG](https://www.nsgintelligence.com/) · [Stratos AI / Stratos Capital](https://stratoscapitalgroup.com/) · [iPhone app](https://apps.apple.com/cl/app/stratos-ai/id6804826565).
 - **[Second brains & enterprise AIOS](projects/second-brains-aios.md):** knowledge architecture, organizational memory and authorized agent execution.
@@ -27,7 +33,7 @@ A map of my current work and technical foundations. This directory includes inde
 | Dropi / Clazz financial workflows | Automation and AI full-stack engineering: OCR, reconciliation, currency conversion, banking files | [Experience](projects/business-systems.md) |
 | Stratos AI · NSG | Commercial workflow architecture and AI integrations; team product | [Dedicated case](projects/stratos-ai.md) |
 | CRM with AI call center | Solution architecture connecting voice, messaging, qualification and commercial context | [Case overview](projects/business-systems.md) |
-| ALMA Solutions | Personal project exploring virtual assistants for business | [Case overview](projects/business-systems.md) |
+| ALMA Solutions | Personal project exploring voice, messaging and business workflows | [Case EN](projects/alma-solutions.md) · [Caso ES](projects/alma-solutions.es.md) |
 | ALMA restaurant assistant | Conversational sales and restaurant workflows within the ALMA project | [Case overview](projects/business-systems.md) |
 | Certipago | Co-created project aimed at reducing scams involving false payment receipts | [Case overview](projects/business-systems.md) |
 | Order recovery and confirmation | E-commerce conversational automation | [Portfolio catalog](https://angelszs.site/?enfoque=negocio#proyectos) |

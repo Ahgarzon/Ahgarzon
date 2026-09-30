@@ -14,61 +14,70 @@ Popayán, Colombia · [Portfolio](https://angelszs.site/?enfoque=perfil) · [Lin
 
 ---
 
-## Flagship work · AI for business and knowledge
+## Six featured projects
+
+Business AI · Tourism · Assistants · Social impact · Digital products
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<p align="center"><a href="https://stratoscapitalgroup.com/"><img src="assets/stratos-ai-icon.png" width="180" height="180" alt="Stratos AI — original project icon" /></a></p>
+<td width="33%" valign="top" align="center">
+<p><a href="https://stratoscapitalgroup.com/"><img src="assets/stratos-ai-icon.png" height="120" alt="Stratos AI · NSG — project logo" /></a></p>
 <h3>Stratos AI · NSG</h3>
-<p><strong>Commercial intelligence connected to daily execution.</strong> Connect lead intake, qualification, advisor handoff and follow-up with CRM context and business indicators.</p>
-<p>My work as Co-Founder &amp; AI Solutions Architect at NSG connects solution architecture, AI integrations and commercial processes, in collaboration with the team.</p>
-<p><a href="https://www.nsgintelligence.com/">Visit NSG ↗</a> · <a href="https://stratoscapitalgroup.com/">Stratos AI / Stratos Capital ↗</a></p>
-<p><a href="projects/stratos-ai.md">My contribution &amp; product →</a> · <a href="https://apps.apple.com/cl/app/stratos-ai/id6804826565">App Store</a></p>
+<p><strong>Commercial intelligence</strong></p>
+<p>CRM and AI assistance connecting lead qualification, advisor context, follow-up and business indicators.</p>
+<p><strong>My contribution:</strong> Solution architecture and AI/business integration with the NSG team.</p>
+<p><a href="https://www.nsgintelligence.com/">NSG ↗</a> · <a href="https://stratoscapitalgroup.com/">Stratos AI ↗</a></p>
+<p><a href="projects/stratos-ai.md">Project &amp; my contribution →</a></p>
 </td>
-<td width="50%" valign="top">
-<a href="projects/second-brains-aios.md"><img src="assets/second-brain.svg" width="100%" alt="Second brains and AIOS — knowledge, context, action and learning" /></a>
-<h3>Second brains &amp; enterprise AIOS</h3>
-<p><strong>Make organizational knowledge useful in the operation.</strong> Connect projects, processes, decisions and lessons to assistants that retrieve context and use authorized tools.</p>
-<p>I design the knowledge structure, agent workflows and integrations that connect institutional memory with execution and traceability.</p>
-<p><a href="https://angelszs.site/?enfoque=negocio#proyectos">See in my portfolio ↗</a></p>
-<a href="projects/second-brains-aios.md">Knowledge architecture &amp; workflow →</a>
+<td width="33%" valign="top" align="center">
+<p><a href="https://play.google.com/store/apps/details?id=com.gopluss.tourmapsgo"><img src="assets/tourmaps-icon.jpg" height="120" alt="TourMaps Go+ — project logo" /></a></p>
+<h3>TourMaps Go+</h3>
+<p><strong>Tourism, maps &amp; AI</strong></p>
+<p>A tourism app for discovering places, culture and routes in Colombia, starting with Popayán and Cauca.</p>
+<p><strong>My contribution:</strong> AI and mobile integration, conversational route experiences and pilot validation.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.gopluss.tourmapsgo">Google Play ↗</a></p>
+<p><a href="projects/tourmaps.md">Project &amp; my contribution →</a></p>
+</td>
+<td width="33%" valign="top" align="center">
+<p><a href="https://angelszs.site/jarvis/"><img src="assets/jarvis-icon.png" height="120" alt="Jarvis AIOS — project logo" /></a></p>
+<h3>Jarvis AIOS</h3>
+<p><strong>Voice, memory &amp; action</strong></p>
+<p>A personal assistant connecting voice, documents, persistent knowledge and authorized tools to everyday work.</p>
+<p><strong>My contribution:</strong> Independent project: agent architecture, knowledge workflows and tool integration.</p>
+<p><a href="https://angelszs.site/jarvis/">Jarvis ↗</a></p>
+<p><a href="projects/jarvis-aios.md">Project &amp; my contribution →</a></p>
 </td>
 </tr>
-</table>
-
-## Products, voice and social impact
-
-<table>
 <tr>
 <td width="33%" valign="top" align="center">
-<a href="projects/jarvis-aios.md"><img src="assets/jarvis-icon.png" height="180" alt="Jarvis AIOS — project identity" /></a>
-<h3>Jarvis AIOS</h3>
-<p>Voice, personal knowledge and software tools connected through an assistant that can act.</p>
-<p><strong>Independent project · Active development</strong></p>
-<p><a href="https://angelszs.site/jarvis/">Visit Jarvis ↗</a></p>
-<a href="projects/jarvis-aios.md">Architecture &amp; decisions →</a>
-</td>
-<td width="33%" valign="top" align="center">
-<a href="projects/ayudame-colombia.md"><img src="assets/ayudame.jpg" height="180" alt="Ayúdame Colombia map interface" /></a>
+<p><a href="https://red-de-ayuda-zosa.vercel.app"><img src="assets/ayudame-icon.png" height="120" alt="Ayúdame Colombia — project logo" /></a></p>
 <h3>Ayúdame Colombia</h3>
-<p>A mobile web app for coordinating needs, collection points and deliveries during emergencies.</p>
-<p><strong>Public source · Deployed PWA</strong></p>
-<p><a href="https://red-de-ayuda-zosa.vercel.app">Open Ayúdame Colombia ↗</a></p>
-<a href="projects/ayudame-colombia.md">Product &amp; engineering →</a>
+<p><strong>Technology for community</strong></p>
+<p>A public PWA with maps to coordinate needs, collection points and aid deliveries during emergencies.</p>
+<p><strong>My contribution:</strong> Product and frontend development, local capture and synchronization workflows.</p>
+<p><a href="https://red-de-ayuda-zosa.vercel.app">Ayúdame Colombia ↗</a></p>
+<p><a href="projects/ayudame-colombia.md">Project &amp; my contribution →</a></p>
 </td>
 <td width="33%" valign="top" align="center">
-<a href="projects/zosa-pages.md"><img src="assets/zosa.jpg" height="180" alt="Monk demonstration website generated with ZOSA Pages" /></a>
+<p><a href="https://angelszs.site/?enfoque=negocio#tu-web"><img src="assets/zosa-logo.jpg" height="120" alt="ZOSA Pages — project logo" /></a></p>
 <h3>ZOSA Pages</h3>
-<p>A workflow for creating business websites and editing them through conversational interfaces.</p>
-<p><strong>Independent project · Public demos</strong></p>
-<p><a href="https://angelszs.site/?enfoque=negocio#tu-web">Explore the service ↗</a></p>
-<a href="projects/zosa-pages.md">Workflow &amp; examples →</a>
+<p><strong>Websites through conversation</strong></p>
+<p>A workflow for creating business websites and updating their content through conversational interfaces.</p>
+<p><strong>My contribution:</strong> Independent project: generation, editing workflows and public demonstration sites.</p>
+<p><a href="https://angelszs.site/?enfoque=negocio#tu-web">ZOSA Pages ↗</a></p>
+<p><a href="projects/zosa-pages.md">Project &amp; my contribution →</a></p>
+</td>
+<td width="33%" valign="top" align="center">
+<p><a href="https://almavirtualsolutions.com"><img src="assets/alma-logo.png" height="120" alt="ALMA Solutions — project logo" /></a></p>
+<h3>ALMA Solutions</h3>
+<p><strong>Conversational business assistants</strong></p>
+<p>Voice and WhatsApp assistants for sales and service, including restaurant ordering and kitchen handoff workflows.</p>
+<p><strong>My contribution:</strong> Personal project: conversational workflows, voice integrations and operational automation.</p>
+<p><a href="https://almavirtualsolutions.com">ALMA ↗</a></p>
+<p><a href="projects/alma-solutions.md">Project &amp; my contribution →</a></p>
 </td>
 </tr>
 </table>
-
-**[TourMaps Go+ / TourCauca](projects/tourmaps.md)** — tourism, territory and mobile experiences. My work includes AI integration into the existing TourMaps app, conversational route experiences and the conceptual/technological structuring of TourCauca.
 
 ## Visit the ecosystem
 
@@ -97,6 +106,18 @@ I start by understanding what is costing the business time, revenue or control. 
 | Adoption and control | Interfaces, team workflows and observability | Active use, task completion, failure and recovery rates |
 
 These are measurement priorities, not claimed results for every project. My approach is **diagnosis → roadmap → architecture → implementation → adoption → measurement and iteration**.
+
+## Second brains & enterprise AIOS
+
+<a href="projects/second-brains-aios.md"><img align="right" src="assets/second-brain.svg" width="300" alt="Second brains: knowledge, context and action" /></a>
+
+I design knowledge structures that connect projects, processes, decisions and lessons to assistants that retrieve context and use authorized tools. A second brain preserves useful knowledge; an AIOS connects it with execution and traceability.
+
+**My contribution:** knowledge architecture, agent workflows and integrations that help individuals and teams maintain continuity.
+
+[Explore architecture & workflow →](projects/second-brains-aios.md) · [See in my portfolio ↗](https://angelszs.site/?enfoque=negocio#proyectos)
+
+<br clear="all" />
 
 ## Robotics, computer vision & industrial automation
 

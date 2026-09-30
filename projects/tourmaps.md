@@ -4,6 +4,14 @@
 
 [Profile](../README.md) · [Directory](../PROJECTS.md) · [TourMaps Go+ on Google Play](https://play.google.com/store/apps/details?id=com.gopluss.tourmapsgo) · [My integration pilot APKs](https://github.com/Ahgarzon/tm-apk)
 
+<p align="center"><img src="../assets/tourmaps-icon.jpg" height="180" alt="TourMaps Go+ app logo" /></p>
+
+[Leer en español](tourmaps.es.md)
+
+## What TourMaps is
+
+TourMaps Go+ is a tourism app for discovering places, local culture and routes in Colombia, starting with Popayán and Cauca. Its public presentation combines points of interest, maps, multimedia content and travel assistance. [Explore the app on Google Play](https://play.google.com/store/apps/details?id=com.gopluss.tourmapsgo).
+
 ## Context
 
 TourMaps is a preexisting tourism application created by James. My work is the AI and mobile integration around that product. This distinction matters: the underlying application and its existing audience are not solely my work.
