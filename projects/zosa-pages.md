@@ -34,7 +34,7 @@ Git history provides a way to inspect edits and recover a previous site version.
 
 ## Public evidence
 
-The screenshot shows a demonstration website. My [public repositories](https://github.com/Ahgarzon?tab=repositories) include generated site examples, and the [portfolio](https://angelszs.site/?enfoque=negocio) presents the website offering.
+The screenshot shows a demonstration website. Inspect the [Monk example source](https://github.com/Ahgarzon/monk) and the [website-request landing source](https://github.com/Ahgarzon/generador-webs-landing). The [portfolio](https://angelszs.site/?enfoque=negocio) presents the website offering.
 
 Example sites demonstrate output quality. They should not be interpreted as a count of paying customers or as proof that every backend capability is open source.
 
