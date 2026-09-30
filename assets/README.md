@@ -22,3 +22,12 @@ These SVG diagrams were authored for this profile. They are presentation graphic
 ## Stratos AI icon supplied by the owner
 
 `stratos-ai-icon.png` is the original `Stratos_AI_Icon_Full_4K.png` supplied by Ángel on 2026-09-30 for publication on this profile. It is copied without alteration (4096 × 4096); its display size is controlled in the README. The icon is distinct from the conceptual diagram `stratos-ai.svg`.
+
+## Logos for the six-project gallery
+
+- `tourmaps-icon.jpg`: unchanged icon from the official [TourMaps Go+ Google Play listing](https://play.google.com/store/apps/details?id=com.gopluss.tourmapsgo), retrieved 2026-09-30 from its declared image asset.
+- `alma-logo.png`: existing owner asset `C:/Users/USUARIO/Downloads/logo ALMA png.png`, copied unchanged.
+- `ayudame-icon.png`: public app icon from `Ahgarzon/red-de-ayuda`, `icons/icon-512.png`.
+- `zosa-logo.jpg`: existing public portfolio asset `/assets/zosa-logo.jpg`.
+
+These replace screenshot thumbnails only in the main gallery; original screenshots remain in their case studies. Brand assets identify the respective projects and do not imply sole authorship of collaborative products.
