@@ -8,7 +8,7 @@
 
 Ayudo a las empresas a convertir sus retos operativos en sistemas de IA orientados a ventas, productividad y mejores decisiones. Trabajo desde el diagnóstico y la arquitectura hasta la implementación y la adopción, conectando personas, conocimiento y procesos alrededor de los KPIs del negocio.
 
-**Co-Founder & AI Solutions Architect en NSG.** Ingeniero en Automática Industrial con bases en robótica, visión por computador y control, y experiencia de investigación en España. Llevo esa visión de sistemas a la IA empresarial, los productos digitales y los proyectos con impacto social.
+**Co-Founder & AI Solutions Architect en [NSG](https://www.nsgintelligence.com/).** Ingeniero en Automática Industrial con bases en robótica, visión por computador y control, y experiencia de investigación en España. Llevo esa visión de sistemas a la IA empresarial, los productos digitales y los proyectos con impacto social.
 
 Popayán, Colombia · [Portafolio](https://angelszs.site/?enfoque=perfil) · [LinkedIn](https://www.linkedin.com/in/angel-garz%C3%B3n-sarzosa-334014337/) · [Correo](mailto:angelgarzonsarzosa@gmail.com) · **[Read in English](README.md)**
 
@@ -19,17 +19,19 @@ Popayán, Colombia · [Portafolio](https://angelszs.site/?enfoque=perfil) · [Li
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="projects/stratos-ai.md"><img src="assets/stratos-ai.svg" width="100%" alt="Stratos AI — CRM, copiloto y operación comercial" /></a>
+<p align="center"><a href="https://stratoscapitalgroup.com/"><img src="assets/stratos-ai-icon.png" width="180" height="180" alt="Stratos AI — icono original del proyecto" /></a></p>
 <h3>Stratos AI · NSG</h3>
-<p><strong>Inteligencia comercial conectada con la ejecución diaria.</strong> CRM, asistencia conversacional y seguimiento dentro de un mismo flujo de trabajo.</p>
+<p><strong>Inteligencia comercial conectada con la ejecución diaria.</strong> Conectar recepción y calificación de prospectos, entrega de contexto al asesor y seguimiento con el CRM y los indicadores del negocio.</p>
 <p>Como Co-Founder &amp; AI Solutions Architect en NSG, conecto arquitectura de soluciones, integraciones de IA y procesos comerciales, en colaboración con el equipo.</p>
-<a href="projects/stratos-ai.md">Mi contribución y producto →</a> · <a href="https://apps.apple.com/cl/app/stratos-ai/id6804826565">App Store</a>
+<p><a href="https://www.nsgintelligence.com/">Visitar NSG ↗</a> · <a href="https://stratoscapitalgroup.com/">Stratos AI / Stratos Capital ↗</a></p>
+<p><a href="projects/stratos-ai.es.md">Mi contribución y producto →</a> · <a href="https://apps.apple.com/cl/app/stratos-ai/id6804826565">App Store</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="projects/second-brains-aios.md"><img src="assets/second-brain.svg" width="100%" alt="Segundos cerebros y AIOS — conocimiento, contexto, acción y aprendizaje" /></a>
 <h3>Segundos cerebros y AIOS empresariales</h3>
 <p><strong>Hacer que el conocimiento de una organización trabaje en su operación.</strong> Conectar proyectos, procesos, decisiones y lecciones con asistentes que recuperan contexto y utilizan herramientas autorizadas.</p>
 <p>Diseño la estructura del conocimiento, los flujos de agentes y las integraciones que unen memoria institucional, ejecución y trazabilidad.</p>
+<p><a href="https://angelszs.site/?enfoque=negocio#proyectos">Ver en mi portafolio ↗</a></p>
 <a href="projects/second-brains-aios.md">Arquitectura del conocimiento y flujo →</a>
 </td>
 </tr>
@@ -44,6 +46,7 @@ Popayán, Colombia · [Portafolio](https://angelszs.site/?enfoque=perfil) · [Li
 <h3>Jarvis AIOS</h3>
 <p>Voz, conocimiento personal y herramientas conectadas mediante un asistente que puede actuar.</p>
 <p><strong>Proyecto independiente · Desarrollo activo</strong></p>
+<p><a href="https://angelszs.site/jarvis/">Visitar Jarvis ↗</a></p>
 <a href="projects/jarvis-aios.md">Arquitectura y decisiones →</a>
 </td>
 <td width="33%" valign="top" align="center">
@@ -51,6 +54,7 @@ Popayán, Colombia · [Portafolio](https://angelszs.site/?enfoque=perfil) · [Li
 <h3>Ayúdame Colombia</h3>
 <p>Una app web móvil para coordinar necesidades, puntos de acopio y entregas durante emergencias.</p>
 <p><strong>Código público · PWA desplegada</strong></p>
+<p><a href="https://red-de-ayuda-zosa.vercel.app">Abrir Ayúdame Colombia ↗</a></p>
 <a href="projects/ayudame-colombia.md">Producto e ingeniería →</a>
 </td>
 <td width="33%" valign="top" align="center">
@@ -58,12 +62,28 @@ Popayán, Colombia · [Portafolio](https://angelszs.site/?enfoque=perfil) · [Li
 <h3>ZOSA Pages</h3>
 <p>Un flujo para crear sitios web de negocios y editarlos mediante interfaces conversacionales.</p>
 <p><strong>Proyecto independiente · Demos públicas</strong></p>
+<p><a href="https://angelszs.site/?enfoque=negocio#tu-web">Conocer el servicio ↗</a></p>
 <a href="projects/zosa-pages.md">Flujo y ejemplos →</a>
 </td>
 </tr>
 </table>
 
 **[TourMaps Go+ / TourCauca](projects/tourmaps.md)** — turismo, territorio y experiencias móviles. Mi trabajo incluye la integración de IA en la app existente de TourMaps, experiencias conversacionales de rutas y la estructuración conceptual y tecnológica de TourCauca.
+
+## Visitar el ecosistema
+
+| Destino | Qué puedes conocer |
+|---|---|
+| **[NSG Intelligence ↗](https://www.nsgintelligence.com/)** | Acompañamiento en IA, diagnóstico de negocio, sistemas comerciales y equipo |
+| **[Stratos AI / Stratos Capital ↗](https://stratoscapitalgroup.com/)** | Plataforma web de Stratos AI · [Acceder](https://app.stratoscapitalgroup.com/) · [App para iPhone](https://apps.apple.com/cl/app/stratos-ai/id6804826565) |
+| **[Jarvis AIOS ↗](https://angelszs.site/jarvis/)** | Presentación del producto, casos de uso, demostración y pilotos acompañados |
+| **[Ayúdame Colombia ↗](https://red-de-ayuda-zosa.vercel.app)** | PWA pública de coordinación de ayuda · [Código](https://github.com/Ahgarzon/red-de-ayuda) |
+| **[ALMA Solutions ↗](https://almavirtualsolutions.com)** | Mi proyecto personal de asistentes empresariales, con flujos para restaurantes |
+| **[TourMaps Go+ ↗](https://play.google.com/store/apps/details?id=com.gopluss.tourmapsgo)** | App turística existente en Google Play · [Mi integración de IA y alcance del piloto](projects/tourmaps.md) |
+| **[ZOSA Pages ↗](https://angelszs.site/?enfoque=negocio#tu-web)** | Servicio de sitios web para negocios · [Ejemplos y código público de demos](projects/zosa-pages.md) |
+| **[Mi portafolio completo ↗](https://angelszs.site/?enfoque=negocio)** | Demostraciones, historias de proyectos, bases técnicas y reconocimientos |
+
+Stratos requiere una cuenta de la organización. Las fichas explican mi aporte y distinguen productos públicos, demos y pilotos.
 
 ## Del problema de negocio a un sistema que se puede medir
 

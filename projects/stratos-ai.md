@@ -2,9 +2,11 @@
 
 **Commercial intelligence, conversational assistance and business operations · NSG**
 
-[Profile](../README.md) · [Español](../README.es.md) · [Project directory](../PROJECTS.md) · [App Store](https://apps.apple.com/cl/app/stratos-ai/id6804826565)
+[Profile](../README.md) · [Leer este caso en español](stratos-ai.es.md) · [Project directory](../PROJECTS.md) · [App Store](https://apps.apple.com/cl/app/stratos-ai/id6804826565)
 
-![Stratos AI — CRM, copilot and commercial operations](../assets/stratos-ai.svg)
+<p align="center"><a href="https://stratoscapitalgroup.com/"><img src="../assets/stratos-ai-icon.png" width="220" height="220" alt="Stratos AI — original project icon" /></a></p>
+
+**[Visit NSG](https://www.nsgintelligence.com/) · [Stratos AI / Stratos Capital](https://stratoscapitalgroup.com/) · [Open the web app](https://app.stratoscapitalgroup.com/) · [iPhone app](https://apps.apple.com/cl/app/stratos-ai/id6804826565)**
 
 Stratos AI is one of the central projects in my work at NSG. It brings commercial context and daily execution together, with AI assistance integrated into the workflow.
 
@@ -21,6 +23,26 @@ This is a team product. My contribution is presented from the perspective of arc
 ## Public product
 
 The [official App Store listing](https://apps.apple.com/cl/app/stratos-ai/id6804826565) describes an iPhone workspace combining opportunity management, customer context, tasks, agenda and a text/voice copilot. It is available to users with an account provided by their organization.
+
+## From lead intake to follow-up
+
+The [NSG product presentation](https://www.nsgintelligence.com/#stratos) describes a commercial system connecting five stages:
+
+| Stage | Purpose in the operation |
+|---|---|
+| Intake and response | Bring incoming inquiries from calls, messaging or forms into the workflow |
+| Qualification and routing | Identify relevant commercial context and send the opportunity to the right person |
+| Advisor handoff | Preserve the information the team needs for the next conversation |
+| Follow-up and CRM updates | Connect activity, responsibility and the next action |
+| Measurement | Make response time, opportunities served and conversion by stage visible |
+
+My [portfolio](https://angelszs.site/?enfoque=negocio#proyectos) develops the conversational integration side: voice, WhatsApp and Telegram workflows, BANT qualification, scoring and advisor briefings. Features depend on the implementation and organization configuration.
+
+![Conceptual overview: CRM, copilot and execution](../assets/stratos-ai.svg)
+
+## A workflow example
+
+An incoming prospect is qualified, relevant context is prepared for the advisor, and the next action is tracked in the commercial workflow. The design goal is continuity between a conversation and the team's next decision. This is an illustrative workflow, not a claim about a particular customer's results.
 
 ## How I frame impact
 

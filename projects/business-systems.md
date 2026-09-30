@@ -14,7 +14,7 @@ Work included invoice processing with OCR, reconciliation, currency conversion a
 
 The engineering challenge is turning extracted information into reliable downstream records. Model output needs validation before it becomes an operational action. This summary describes my work without publishing company implementation details or claiming an unverified reduction in manual work.
 
-## NSG
+## [NSG Intelligence](https://www.nsgintelligence.com/)
 
 **Co-Founder & AI Solutions Architect · 2026–present**
 
@@ -28,7 +28,7 @@ Systems that connect structured knowledge, retrieval and operational tools so wo
 
 Solution architecture joining voice and messaging interactions with qualification and CRM context. The objective is to preserve the conversation's useful information through the handoff to a human team.
 
-## ALMA
+## [ALMA Solutions](https://almavirtualsolutions.com)
 
 ALMA is my **personal project**, exploring virtual assistants for business and restaurant sales workflows. It is presented as a project, not as an employer or a separate co-founder position.
 
