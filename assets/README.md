@@ -31,3 +31,7 @@ These SVG diagrams were authored for this profile. They are presentation graphic
 - `zosa-logo.jpg`: existing public portfolio asset `/assets/zosa-logo.jpg`.
 
 These replace screenshot thumbnails only in the main gallery; original screenshots remain in their case studies. Brand assets identify the respective projects and do not imply sole authorship of collaborative products.
+
+## Current Boro AIOS identity
+
+- `boro-logo.jpg`: official beaver logo, copied unchanged from `/boroaios/assets/boro-logo.jpg` on the public portfolio on 2026-10-26. Used in both profile languages and the project case study. Older image files above are retained as historical assets.

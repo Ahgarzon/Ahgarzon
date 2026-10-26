@@ -18,7 +18,7 @@ I build **second brains** that organize this knowledge into a connected, maintai
 |---|---|---|
 | Second brain | Preserve and retrieve useful knowledge | Linked notes, project records, decisions, procedures, sources and lessons |
 | AIOS | Connect context to execution | Agent workflows, authorized tools, integrations, verification and activity records |
-| Interface | Make the system usable in everyday work | Conversational access through desktop, mobile, messaging or voice; [Jarvis](jarvis-aios.md) is one interface project |
+| Interface | Make the system usable in everyday work | Conversational access through desktop, mobile, messaging or voice; [Boro](jarvis-aios.md) is one interface project |
 
 ## A typical workflow
 
@@ -44,4 +44,4 @@ I work on the knowledge model, organization of sources, agent instructions, tool
 
 These are design goals. Useful measurements include retrieval time, onboarding time, repeated work, source traceability and task completion.
 
-**Related:** [Stratos AI](stratos-ai.md) · [Jarvis AIOS](jarvis-aios.md) · [Business systems](business-systems.md) · [Visual portfolio](https://angelszs.site/?enfoque=negocio#proyectos)
+**Related:** [Stratos AI](stratos-ai.md) · [Boro AIOS](jarvis-aios.md) · [Business systems](business-systems.md) · [Visual portfolio](https://angelszs.site/?enfoque=negocio#proyectos)

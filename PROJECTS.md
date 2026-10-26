@@ -6,7 +6,7 @@ A map of my current work and technical foundations. This directory includes inde
 
 ## Featured product selection
 
-**Stratos AI · TourMaps Go+ · Jarvis AIOS · Ayúdame Colombia · ZOSA Pages · ALMA Solutions**
+**Stratos AI · TourMaps Go+ · Boro AIOS · Ayúdame Colombia · ZOSA Pages · ALMA Solutions**
 
 The six visual cards on the profile link to their products and case studies. Second brains and enterprise AIOS have a separate section below the featured selection.
 
@@ -19,7 +19,7 @@ The six visual cards on the profile link to their products and case studies. Sec
 
 | Work | Scope | Explore |
 |---|---|---|
-| Jarvis AIOS | Personal assistant connecting voice, persistent knowledge and tools; active development | [Engineering case](projects/jarvis-aios.md) |
+| Boro AIOS | Personal assistant connecting voice, persistent knowledge and tools; active development | [Engineering case](projects/jarvis-aios.md) |
 | Enterprise AIOS | Architecture connecting institutional knowledge, assistants and operational tools | [Knowledge and execution](projects/second-brains-aios.md) |
 | AI second brains | Connected knowledge, decisions, procedures and retrieval for continuity across teams and work sessions | [Knowledge architecture](projects/second-brains-aios.md) |
 | Personal accounting assistant | Conversational workflow for recording and organizing finances | [Portfolio catalog](https://angelszs.site/?enfoque=negocio#proyectos) |

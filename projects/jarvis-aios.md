@@ -1,14 +1,14 @@
-# Jarvis AIOS
+# Boro AIOS
 
 **Independent project · Active development · Public architecture overview**
 
-[Profile](../README.md) · [Project directory](../PROJECTS.md) · [Visit Jarvis](https://angelszs.site/jarvis/) · [Portfolio demonstration](https://angelszs.site/#jarvis)
+[Profile](../README.md) · [Project directory](../PROJECTS.md) · [Visit Boro](https://angelszs.site/boroaios/) · [Portfolio demonstration](https://angelszs.site/#jarvis)
 
-<img src="../assets/jarvis-icon.png" width="150" alt="Jarvis AIOS project identity" />
+<img src="../assets/boro-logo.jpg" width="150" alt="Boro AIOS project identity" />
 
 ## The problem
 
-An assistant loses value when it forgets decisions, cannot find working context or stops at giving advice. Jarvis explores how voice, a persistent knowledge base and software tools can form a useful personal operating environment.
+An assistant loses value when it forgets decisions, cannot find working context or stops at giving advice. Boro explores how voice, a persistent knowledge base and software tools can form a useful personal operating environment.
 
 ## My contribution
 

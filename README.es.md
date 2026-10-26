@@ -39,12 +39,12 @@ IA empresarial · Turismo · Asistentes · Impacto social · Productos digitales
 <p><a href="projects/tourmaps.es.md">Proyecto y mi aporte →</a></p>
 </td>
 <td width="33%" valign="top" align="center">
-<p><a href="https://angelszs.site/jarvis/"><img src="assets/jarvis-icon.png" height="120" alt="Jarvis AIOS — logo del proyecto" /></a></p>
-<h3>Jarvis AIOS</h3>
+<p><a href="https://angelszs.site/boroaios/"><img src="assets/boro-logo.jpg" height="120" alt="Boro AIOS — logo del proyecto" /></a></p>
+<h3>Boro AIOS</h3>
 <p><strong>Voz, memoria y acción</strong></p>
 <p>Un asistente personal que conecta voz, documentos, conocimiento persistente y herramientas autorizadas con el trabajo diario.</p>
 <p><strong>Mi aporte:</strong> Proyecto propio: arquitectura de agentes, flujos de conocimiento e integración de herramientas.</p>
-<p><a href="https://angelszs.site/jarvis/">Jarvis ↗</a></p>
+<p><a href="https://angelszs.site/boroaios/">Boro ↗</a></p>
 <p><a href="projects/jarvis-aios.md">Proyecto y mi aporte →</a></p>
 </td>
 </tr>
@@ -85,7 +85,7 @@ IA empresarial · Turismo · Asistentes · Impacto social · Productos digitales
 |---|---|
 | **[NSG Intelligence ↗](https://www.nsgintelligence.com/)** | Acompañamiento en IA, diagnóstico de negocio, sistemas comerciales y equipo |
 | **[Stratos AI / Stratos Capital ↗](https://stratoscapitalgroup.com/)** | Plataforma web de Stratos AI · [Acceder](https://app.stratoscapitalgroup.com/) · [App para iPhone](https://apps.apple.com/cl/app/stratos-ai/id6804826565) |
-| **[Jarvis AIOS ↗](https://angelszs.site/jarvis/)** | Presentación del producto, casos de uso, demostración y pilotos acompañados |
+| **[Boro AIOS ↗](https://angelszs.site/boroaios/)** | Presentación del producto, casos de uso, demostración y pilotos acompañados |
 | **[Ayúdame Colombia ↗](https://red-de-ayuda-zosa.vercel.app)** | PWA pública de coordinación de ayuda · [Código](https://github.com/Ahgarzon/red-de-ayuda) |
 | **[ALMA Solutions ↗](https://almavirtualsolutions.com)** | Mi proyecto personal de asistentes empresariales, con flujos para restaurantes |
 | **[TourMaps Go+ ↗](https://play.google.com/store/apps/details?id=com.gopluss.tourmapsgo)** | App turística existente en Google Play · [Mi integración de IA y alcance del piloto](projects/tourmaps.md) |
@@ -147,7 +147,7 @@ Son las bases de ingeniería sobre las que construyo y siguen siendo parte de mi
 | Periodo | Experiencia | Contribución |
 |---|---|---|
 | Mayo de 2026–actualidad | **Co-Founder & AI Solutions Architect · NSG** | Stratos AI, AIOS empresariales, flujos conversacionales y arquitectura alineada con procesos comerciales |
-| 2025–2026 | **Proyectos independientes y colaboraciones** | Segundos cerebros, Jarvis AIOS, Ayúdame Colombia, ZOSA Pages, ALMA, Certipago e integración TourMaps |
+| 2025–2026 | **Proyectos independientes y colaboraciones** | Segundos cerebros, Boro AIOS, Ayúdame Colombia, ZOSA Pages, ALMA, Certipago e integración TourMaps |
 | Enero–abril de 2026 | **Automation & AI Full Stack Engineer · Dropi / Clazz Group** | OCR de facturas, conciliación, conversión de divisas, archivos bancarios ACH/COBRE y agentes para e-commerce |
 | Febrero–abril de 2025 | **Pasantía de investigación · Universidad Miguel Hernández, España** | Interfaces Unity/C# y ROS2 para coordinar UR3e/UR5e |
 | 2019–2025 | **Ingeniería en Automática Industrial · Universidad del Cauca** | Robótica, control, visión, sistemas industriales y trabajo de grado con mención honorífica |
@@ -159,7 +159,7 @@ Formación adicional: **Bootcamp de Inteligencia Artificial · MinTIC, 2025**.
 | Área | Trabajo seleccionado |
 |---|---|
 | **IA empresarial y operación** | [Stratos AI](projects/stratos-ai.md), [automatización financiera Dropi/Clazz, asistentes ALMA de voz y restaurantes, Certipago](projects/business-systems.md), recuperación y confirmación de pedidos, Dental SDR |
-| **Conocimiento y sistemas personales** | [Segundos cerebros y AIOS](projects/second-brains-aios.md), [Jarvis](projects/jarvis-aios.md), asistente contable, asistente de inglés y flujos de coaching |
+| **Conocimiento y sistemas personales** | [Segundos cerebros y AIOS](projects/second-brains-aios.md), [Boro](projects/jarvis-aios.md), asistente contable, asistente de inglés y flujos de coaching |
 | **Productos y comunidad** | [Ayúdame Colombia](projects/ayudame-colombia.md), [ZOSA Pages](projects/zosa-pages.md), [TourMaps / TourCauca](projects/tourmaps.md), [Moda Local](https://moda-local.vercel.app), [LinguaLeap](https://github.com/Ahgarzon/LinguaLeap) |
 | **Automatización de procesos** | Reportes de Proyecto Fénix, cotización multiagente, flujos inmobiliarios e investigación de productos |
 | **Investigación e ingeniería** | [Interfaces multi-robot, navegación móvil, SAM, clasificación con CNN e instrumentación biomédica](projects/robotics-vision.md) |
